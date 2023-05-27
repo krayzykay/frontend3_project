@@ -1,0 +1,37 @@
+/* Navigation bar */
+nav { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#4CFF78;
+} 
+nav ul li { 
+    border: 1px solid rgba(205, 205, 63, 0.824);
+    padding: 9px;
+    list-style-type: 30;
+    display :inline ;
+    border-radius:10px;
+    
+} 
+
+p{
+font-size: 30px; 
+}
+
+li:hover{
+    background-color: rgba(255, 55, 55, 0.516);
+  }
+a{
+ text-decoration: none;
+  }
+  h1{
+    margin-left: 20px;
+  }
+  p{
+    margin-left: 20px;
+  }
+  img{
+    margin-left: 20px;
+    border: 1px solid black;
+
+  }
